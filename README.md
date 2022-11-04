@@ -1,5 +1,7 @@
 # therightjoinistherightjoin
 
+![young, handsome white male with a beard staring at the camera as he codes SQL](https://raw.githubusercontent.com/jwoeste/therightjoinistherightjoin/main/young%20handsome%20male.png)
+
 A garage band file of the Matty_Two_Shoes "The Right Join Is The Right Join uWu" 2022 trendy remix.
 
 
